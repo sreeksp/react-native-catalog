@@ -1,0 +1,7 @@
+{
+  "name": "ebayPassport",
+  "displayName": "ebayPassport",
+  "expo":{
+    "sdkVersion":"18.0.0"
+  }
+}
